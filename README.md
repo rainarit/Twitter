@@ -1,6 +1,6 @@
-# Project 3 - *Twitter*
+# Project 3 - *Twitter4Me*
 
-**Twitter** is a basic twitter app to read your tweets.
+**Twitter4Me** is a basic twitter app to read your tweets.
 
 Time spent: **3** hours spent in total
 
@@ -25,7 +25,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/brCwIgqn88.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-# Twitter - Part II
+# Twitter4Me - Part II
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
